@@ -9,11 +9,12 @@ Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>1</td>
-      <td><a href="https://github.com/Saja-Omar/20-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/Form%20Validator">Form Validator</a></td>
-      <td><a href="http://127.0.0.1:5500/index.html">Live Demo</a></td>
-    </tr>
+<tr>
+  <td>1</td>
+  <td><a href="https://saja-omar.github.io/20-mini-frontend-projects-with-HTML5-CSS-JavaScript/FormValidator/">Form Validator</a></td>
+  <td><a href="https://saja-omar.github.io/20-mini-frontend-projects-with-HTML5-CSS-JavaScript/FormValidator/">Live Demo</a></td>
+</tr>
+
 <!--     <tr>
       <td>02</td>
       <td><a href="#">Movie Seat Booking</a></td>
