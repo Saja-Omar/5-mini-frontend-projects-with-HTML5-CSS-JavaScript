@@ -17,7 +17,7 @@ Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
     <tr>
       <td>2</td>
       <td><a href="https://github.com/Saja-Omar/20-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/responsive%20form">Responsive Form</a></td>
-      <td><a href="daynmicform.netlify.app">Live Demo</a></td>
+      <td><a href="https://daynmicform.netlify.app">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
