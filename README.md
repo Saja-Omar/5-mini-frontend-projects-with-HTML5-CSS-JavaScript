@@ -12,7 +12,7 @@ Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
     <tr>
       <td>1</td>
       <td><a href="https://github.com/Saja-Omar/20-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/Form%20Validator">Form Validator</a></td>
-      <td><a href="https://shimmering-mochi-37c725.netlify.app">Live Demo</a></td>
+      <td><a href="daynmicform.netlify.app">Live Demo</a></td>
     </tr>
     <tr>
       <td>2</td>
