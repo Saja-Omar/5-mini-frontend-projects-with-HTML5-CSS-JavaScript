@@ -15,12 +15,12 @@ Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
       <td><a href="https://shimmering-mochi-37c725.netlify.app">Live Demo</a></td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td><a href="https://github.com/Saja-Omar/20-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/responsive%20form">Responsive Form</a></td>
       <td><a href="https://daynmicform.netlify.app">Live Demo</a></td>
     </tr>
         <tr>
-      <td>2</td>
+      <td>3</td>
       <td><a href="https://github.com/Saja-Omar/20-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/iphone">iPhone Dynamic Showcase</a></td>
       <td><a href="https://iphonedaynamic.netlify.app">Live Demo</a></td>
     </tr>
