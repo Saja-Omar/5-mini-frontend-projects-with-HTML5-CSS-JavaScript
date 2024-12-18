@@ -22,7 +22,7 @@ Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
         <tr>
       <td>2</td>
       <td><a href="https://github.com/Saja-Omar/20-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/iphone">iPhone Dynamic Showcase</a></td>
-      <td><a href="https://iphonedynamic.netlify.app">Live Demo</a></td>
+      <td><a href="https://iphonedaynamic.netlify.app">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
