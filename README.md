@@ -1,4 +1,4 @@
-# 20-mini-frontend-projects-with-HTML5-CSS-JavaScript
+# 5-mini-frontend-projects-with-HTML5-CSS-JavaScript
 Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
 <table border="1">
   <thead>
@@ -24,5 +24,11 @@ Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
       <td><a href="https://github.com/Saja-Omar/20-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/iphone">iPhone Dynamic Showcase</a></td>
       <td><a href="https://iphonedaynamic.netlify.app">Live Demo</a></td>
     </tr>
+      <tr>
+      <td>4</td>
+      <td><a href=https://github.com/Saja-Omar/20-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/NewYear"">New Year Countdown</a></td>
+      <td><a href="https://year-new-countdown.netlify.app/">Live Demo</a></td>
+    </tr>
+    
   </tbody>
 </table>
