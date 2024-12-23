@@ -29,6 +29,11 @@ Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
       <td><a href="https://github.com/Saja-Omar/5-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/NewYear">New Year Countdown</a></td>
       <td><a href="https://year-new-countdown.netlify.app/">Live Demo</a></td>
     </tr>
+
+     <td>5</td>
+      <td><a href="https://github.com/Saja-Omar/5-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/CheckConnection">Check Internet Connection</a></td>
+      <td><a href="https://check-connection.netlify.app/">Live Demo</a></td>
+    </tr>
     
   </tbody>
 </table>
