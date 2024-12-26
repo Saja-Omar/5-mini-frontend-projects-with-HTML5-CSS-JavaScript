@@ -37,7 +37,7 @@ Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
 
  <tr>
      <td>6</td>
-      <td><a href="#">Speed Typer</a></td>
+      <td><a href="https://github.com/Saja-Omar/6-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/Speed%20Typer">Speed Typer</a></td>
       <td><a href="https://speed-typer-gam.netlify.app/">Live Demo</a></td>
     </tr>
     
