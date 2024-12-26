@@ -1,4 +1,4 @@
-# 5-mini-frontend-projects-with-HTML5-CSS-JavaScript
+# 6-mini-frontend-projects-with-HTML5-CSS-JavaScript
 Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
 <table border="1">
   <thead>
@@ -33,6 +33,12 @@ Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
      <td>5</td>
       <td><a href="https://github.com/Saja-Omar/5-mini-frontend-projects-with-HTML5-CSS-JavaScript/tree/main/CheckConnection">Check Internet Connection</a></td>
       <td><a href="https://check-connection.netlify.app/">Live Demo</a></td>
+    </tr>
+
+     <tr>
+     <td>6</td>
+      <td><a href="#">Check Internet Connection</a></td>
+      <td><a href="https://speed-typer-gam.netlify.app/">Live Demo</a></td>
     </tr>
     
   </tbody>
